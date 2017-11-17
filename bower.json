@@ -1,0 +1,20 @@
+{
+  "name": "test-task",
+  "description": "",
+  "main": "js.js",
+  "authors": [
+    "AlexanderBadm <alexanderrbadmaev@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "masonry": "^4.2.0"
+  }
+}
